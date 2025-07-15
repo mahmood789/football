@@ -9,6 +9,7 @@
     "tags": ["meta-analysis", "cardiovascular", "football", "health", "statistics"],
     "categories": ["healthcare", "sports", "statistics"]
   },
+  "platform": "4.3.0",
   "files": {
     "app.R": {
       "checksum": "auto"
