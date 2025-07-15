@@ -21,29 +21,34 @@
       "repositories": [
         {
           "name": "CRAN",
-          "url": "https://cran.rstudio.com"
+          "url": "https://cran.r-project.org"
         }
       ]
     },
     "shiny": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com"
+      "Repository": "https://cran.r-project.org",
+      "Version": "1.9.1"
     },
     "meta": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com"
+      "Repository": "https://cran.r-project.org",
+      "Version": "7.0-0"
     },
     "dplyr": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com"
+      "Repository": "https://cran.r-project.org",
+      "Version": "1.1.4"
     },
     "readr": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com"
+      "Repository": "https://cran.r-project.org",
+      "Version": "2.1.5"
     },
     "bslib": {
       "Source": "CRAN",
-      "Repository": "https://cran.rstudio.com"
+      "Repository": "https://cran.r-project.org",
+      "Version": "0.8.0"
     }
   },
   "python": null,
