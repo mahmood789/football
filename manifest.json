@@ -49,6 +49,11 @@
       "Source": "CRAN",
       "Repository": "https://cran.r-project.org",
       "Version": "0.8.0"
+    },
+    "fontawesome": {
+      "Source": "CRAN",
+      "Repository": "https://cran.r-project.org",
+      "Version": "0.5.2"
     }
   },
   "python": null,
